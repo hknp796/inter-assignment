@@ -1,0 +1,44 @@
+
+body{
+    
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSruEV4-bFkhAm6KcUuDMl7RB7fP_Qnbsp_Fg&usqp=CAU);
+   
+}
+.side-image{
+width: 350px;
+height: 600px;
+background-color:black;
+opacity: .7; 
+}
+.text{
+    color:white;
+    text-align: center;
+    padding-top: 55px;
+    
+}
+.navbar-nav > li{
+    padding-left:25px;
+    padding-right:25px;
+  }
+p{
+    color: white;
+    padding-top: 10px;
+    text-align: center;
+    font-size: medium;
+}
+h2{
+    color: white;
+    padding-top: 10px;
+    text-align: center;
+    font-size: 30px;
+}
+.btn{
+    margin-top: 50px;
+    margin-left: 118px;
+    background-color: yellow;
+    
+}
+.nav-item:hover{
+    background-color: rgb(184, 179, 177);
+   
+}
